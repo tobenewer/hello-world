@@ -1,4 +1,4 @@
 # hello-world
 test
 hello lulu, 
-this is the test for commnit functionality of Github
+this is the test for commit functionality of Github
